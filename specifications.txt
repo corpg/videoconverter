@@ -1,0 +1,25 @@
+=== Codec de sortie ===
+
+== Video Output
+- Apple Pro Res (prores)
+- taille inchangée
+- 50 image/seconde entrelacées
+- profile 0
+- HD720p
+
+== Audio
+- PCM 16bits signed (pcm_s16be)
+- 48KHz
+
+=== Programme
+
+- Convertir MTS en MOV pour Final Cut
+- Interface graphique + gestion du glisser déposer
+- Afficher les infos sur les pistes
+- paramétrage de la synchro son
+- paramétrage des fork
+
+== Paramètres
+- dossier de sorties (création si n'existe pas)
+- dossier d'entrée (
+
